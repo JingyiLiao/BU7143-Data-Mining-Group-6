@@ -1,4 +1,4 @@
-## BU7143-Data-Mining-Group-6
+## BU7143-Data-Mining-Group-6 <br>
 #TCD BU7143 Business Data Mining 2021/22 - Group 6 Prouject - Bank marketing campaign for subscribing existing customers with a term deposit
 
 bank.csv <- data we used in this project <br>
